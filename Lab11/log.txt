@@ -1,0 +1,4 @@
+Para yatırıldı: 500.0
+Para çekildi: 300.0
+Para yatırıldı: 1000.0
+Para çekildi (ceza dahil): 500.0, Ceza: 25.0
